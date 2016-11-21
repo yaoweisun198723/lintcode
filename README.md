@@ -1,1 +1,1 @@
-# lintcode
+# Answers to lintcode questions
